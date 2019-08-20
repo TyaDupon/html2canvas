@@ -1,0 +1,5 @@
+    <div class="feed" id="feed1">
+      <p>jQuery之家 <a href="http://www.htmleaf.com/">http://www.htmleaf.com/</a></p>
+      <div class="heart" id="like3" rel="like"></div>
+      <div class="likeCount" id="likeCount3">24</div>
+    </div> 
